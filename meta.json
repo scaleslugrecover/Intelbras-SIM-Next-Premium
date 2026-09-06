@@ -1,0 +1,23 @@
+{
+  "repo": "intelbras-sim-next-premium",
+  "product": "Intelbras SIM Next Premium",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "intelbras-sim-next",
+    "nvr-client",
+    "ip-camera-grid",
+    "alarm-events",
+    "site-monitoring",
+    "intelbras-setup-failed-fix",
+    "how-to-install-intelbras",
+    "intelbras-windows",
+    "intelbras-desktop-2026",
+    "intelbras-desktop-package"
+  ],
+  "site": "toolix.me"
+}
